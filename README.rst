@@ -4,8 +4,8 @@ Robot Framework User Guide (한글 번역)
 역자
 ----
 @hermian
+@kweonhaejin
 이미진
-권혜진
 
 
 Introduction

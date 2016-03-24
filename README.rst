@@ -1,5 +1,12 @@
-Robot Framework User Guide
-==========================
+Robot Framework User Guide (한글 번역)
+======================================
+
+역자
+----
+@hermian
+이미진
+권혜진
+
 
 Introduction
 ------------
